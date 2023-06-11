@@ -1,0 +1,26 @@
+{
+   "Shankar": {
+      "name": "Shankar",
+      "address": "spain,EU",
+      "phonenumber": "88451226402",
+      "Sex": "Male"
+   },
+   "Harvey_spectre": {
+      "name": "Harvey_spectre",
+      "address": "Flat302,India",
+      "phonenumber": "88451226402",
+      "Sex": "Male"
+   },
+   "Sapna_dalvi": {
+      "name": "Sapna_dalvi",
+      "address": "Goa,India",
+      "phonenumber": "451226402",
+      "Sex": "Female"
+   },
+   "JacobJr": {
+      "name": "JacobJr",
+      "address": "No Data",
+      "phonenumber": "9236488425",
+      "Sex": "Male"
+   }
+}
